@@ -1,5 +1,7 @@
 # compton-tryone-transparency
 
+![spotify](https://raw.githubusercontent.com/sortedcord/compton-tryone-transparency/main/spotiblur.png)
+
 In order to use these effects make sure that you have installed `compton-tryone-git` from AUR and remove any other picom fork.
 
 I have provided my comton configuration as an example. You can set opacity rules in this way-
